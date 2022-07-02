@@ -1,1 +1,1 @@
-# Microsoft-Sentinel-SIGMA-Rules-Workbook
+# Microsoft Sentinel SIGMA Rules Workbook
