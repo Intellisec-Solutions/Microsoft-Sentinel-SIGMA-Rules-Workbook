@@ -7,7 +7,9 @@
 
 This workbook helps you assess your Microsoft Sentinel Analytics Detection coverage against a threat Actor/profile.Furthermore, this tool enables defenders to start aligning their Sentinel day-to-day SOC operations with the MITRE ATT&CK framework. 
 
-
+<p align="center">
+<img src="Images/SGM.png?raw=true" alt="logo" style="width:800px"></a>
+</p>
 
 ## Threat Profiling
 
