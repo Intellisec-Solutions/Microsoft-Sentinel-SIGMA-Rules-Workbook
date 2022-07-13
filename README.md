@@ -25,3 +25,7 @@ Once you create threat profile watchlists, you need to create a watchlist contai
 At this phase, you already created threat profiles and coverage watchlists. Then, create a watchlist that contains all SIGMA rules links. To generate the needed csv when creating the watchlist use the script <strong>SIGMA2csv.py </strong>
 
 Now you have everything to use the workbook and to identify the sigma rules that you can use to enhance your detection capabilities. 
+
+<p align="center">
+<img src="Images/Screenshot_sigma.png?raw=true" alt="logo" style="width:1400px"></a>
+</p>
